@@ -1,4 +1,4 @@
 # hello-world
-HELLO WARUDO
+HELLO WORLD
 =============
-Star Platinum can now stop time too.
+Repo for following GitHub starting out tutorial.
